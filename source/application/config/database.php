@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'vnmarket';
-$db['default']['password'] = 'adm1n@16';
-$db['default']['database'] = 'vnmarket';
+$db['default']['username'] = 'xxxxxx';
+$db['default']['password'] = 'xxxxxx';
+$db['default']['database'] = 'xxxxxx';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
