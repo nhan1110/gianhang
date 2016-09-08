@@ -1,0 +1,11 @@
+#advertise tr td,#advertise tr th{text-align: center;}
+#advertise tr p {margin-bottom: 0;}
+#advertise tr .btn{
+	padding: 3px 5px;
+	margin-right: 5px;
+}
+#messenger-register .tab-content{
+	padding: 30px 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}

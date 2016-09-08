@@ -1,0 +1,5 @@
+#modal_make_group ul li{list-style: none;}
+#modal_make_group ul{padding: 0;}
+#modal_edit_cat_type .attribute_group_not_show_cattype{margin-bottom: 20px; padding: 0;}
+#modal_edit_cat_type .attribute_group_not_show_cattype li {list-style:  none;}
+#list-gr-attr{max-height: 600px; overflow-x:auto;}

@@ -1,0 +1,11 @@
+#contact-infor .item{    
+	margin-bottom: 10px;
+    float: left;
+    width: 100%;
+}
+#contact-infor .item .remove-item{
+	position: absolute;
+    right: 2px;
+    top: -5px;
+    z-index: 9;
+}

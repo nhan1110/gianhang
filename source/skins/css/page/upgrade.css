@@ -1,0 +1,72 @@
+.box-month{
+	padding-bottom: 20px;
+    text-align:  center;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 20px;
+}
+.box-month:last-child{
+    border-bottom: none;
+}
+.number-month{
+	font-size: 44px;
+    line-height: 1;
+    display: inline-block;
+    min-width: 45px;
+    text-align: center;
+    letter-spacing: -10px;
+    color: #545454;
+}
+.text-month{
+	font-size: 24px;
+	color: #545454;
+}
+#box-upgrade .form-group .checkbox label,
+#box-upgrade .form-group .radio label{
+   padding-left: 5px;
+}
+#box-upgrade .form-group .checkbox p,
+#box-upgrade .form-group .radio p{
+   margin-top: 5px;
+}
+#box-upgrade .form-group .checkbox label:after,
+#box-upgrade .form-group .radio label:after{
+    background-color: transparent;
+}
+#box-upgrade .form-group .checkbox label.validate:before{
+    border:1px solid #ff0000 !important;
+}
+#box-upgrade .form-group .checkbox{
+    margin-top:0;
+    border-bottom: 1px solid #ccc;
+}
+#box-upgrade .form-group .checkbox:last-child{
+    border-bottom: none;
+}
+#box-upgrade .form-group .radio{
+    margin-top:0;
+}
+#box-upgrade .table-upgrade{
+	border: 1px solid rgba(0,0,0,.1) !important;
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 100%;
+    border-radius: 5px;
+}
+#box-upgrade .table-upgrade td {
+    border-top: 1px solid rgba(0,0,0,.1);
+    padding: 6px 12px;
+    vertical-align: middle;
+}
+#box-upgrade .table-upgrade th {
+    font-weight: 700;
+    padding: 9px 12px;
+}
+label sup{
+    color: #ff0000;
+}
+
+@media (min-width: 768px) {
+    .sm-remove-padding-right{
+        padding-right: 0 !important;
+    }
+}
